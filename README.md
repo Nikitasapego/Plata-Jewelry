@@ -1,7 +1,7 @@
 # Plata-Jewelry
 
-Вёрстка магазина бижутерии Plata-Jewelry
-https://nikitasapego.github.io/Plata-Jewelry/
+Вёрстка магазина бижутерии [Plata-Jewelry]([http://sabaka.net](https://nikitasapego.github.io/Plata-Jewelry/))
+
 #html 
 #css 
 #Javascript
