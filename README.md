@@ -1,6 +1,10 @@
 # Plata-Jewelry
 
-Вёрстка магазина бижутерии Plata Jewelry #html #css #Javascript
+Вёрстка магазина бижутерии Plata-Jewelry
+https://nikitasapego.github.io/Plata-Jewelry/
+#html 
+#css 
+#Javascript
 
 - Имеется адаптив до 320px;
 - Все файлы структурированы по папкам;
